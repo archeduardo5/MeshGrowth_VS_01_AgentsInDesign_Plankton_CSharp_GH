@@ -1,0 +1,2 @@
+D:\Cloud Storage\OneDrive\Teaching\C# Workshop 2018\01_VS_Solution\MeshGrowth_VS\MeshGrowth\MeshGrowth\obj\Debug\MeshGrowth.csprojResolveAssemblyReference.cache
+D:\Cloud Storage\OneDrive\Teaching\C# Workshop 2018\01_VS_Solution\MeshGrowth_VS\MeshGrowth\MeshGrowth\obj\Debug\MeshGrowth.csproj.CoreCompileInputs.cache
